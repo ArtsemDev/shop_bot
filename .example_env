@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql://user:pass@host:port/dbname
+BOT_TOKEN=token
